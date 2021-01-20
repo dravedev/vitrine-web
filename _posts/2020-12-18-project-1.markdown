@@ -1,0 +1,21 @@
+---
+title: |-
+  SMOG: qualité de l'air dans La-Cité-Limoilou
+subtitle: Comment suivre la qualité de l'air et se protéger des épisodes de Smog?
+layout: default
+modal-id: 1
+date: 2020-12-18
+img: iqa.png
+thumbnail: iqa-thumbnail.png
+alt: image-alt
+project-date: .. en cours
+client: Communauté des quartiers centraux de La-Cité-Limoilou, ville de Québec
+category: Intégration de Données ouvertes
+description: |-
+  Depuis plusieurs années, la qualité de l'air est une préoccupation majeur des habitants des quartiers de La-Cité-Limoilou, à Québec.
+
+  Il existe pluseurs sources de données en lien avec la qualité de l'air et de la météo.
+  Plusieurs groupes citoyens sont engagés à suivre la situation et à proposer des solutions. Et la santé publique à mis en place des mesures d'atténuation et de suivi scientifique.
+
+  Ce projet à comme objectif d'intégrer ces diverses initiatives pour produire des applications de rendant plus visible l'évolution de la situation et déclenchant une alerte en cas de problèmes ponctuels.
+---
