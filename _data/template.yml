@@ -4,6 +4,8 @@ color:
   secondary: B09100
   secondary-dark: B04E00
   muted: 777
+  dark: "000"
+  light: "fff"
 
 # Font Families
 font:
