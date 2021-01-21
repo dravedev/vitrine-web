@@ -15,31 +15,33 @@ people:
   position: Maître-Draveur
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/rngadam
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/rngadam
+    - title: github
+      url: https://github.com/rngadam
+    - title: linkedin
+      url:
 
 - name: Jérémy Viau-Trudel
   pic: 2
   position: Maître-Draveur
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/jvtrudel
     - title: facebook
-      url: #
+      url: https://facebook.com/jvtrudel
+    - title: github
+      url: https://github.com/jvtrudel
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/jvtrudel/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/dravedev
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://facebook.com/dravedev
   - title: github
     url: http://github.com/dravedev
 

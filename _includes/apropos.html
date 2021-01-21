@@ -13,6 +13,12 @@
                 <div class="col-md-8">
                     <h4 class="service-heading">Drave Développement Ouvert</h4>
                     <p class="text-muted">Drave Développement est un organisme à but non-lucratif qui permet à tous de se mettre au service du Québec pour répondre aux besoins numériques de notre société grâce aux données ouvertes et au logiciel libre afin d’atteindre la souveraineté numérique.</p>
+                        <ul class="list-inline social-buttons">
+                            {% for network in site.social %}
+                            <li><a href="{{ network.url }}"><i class="fab fa-{{ network.title }}"></i></a>
+                            </li>
+                            {% endfor %}
+                        </ul>
                 </div>
             </div>
         </div>
