@@ -3,11 +3,11 @@ color:
   primary: "164DB9"
   secondary: B09100
   secondary-dark: B04E00
-  muted: 777
+  muted: "585858"
   dark: "000"
   light: "fff"
 
 # Font Families
 font:
-  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: 'Oswald, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: '"Lato", "Helvetica Neue", Helvetica,Arial,sans-serif'
